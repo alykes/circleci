@@ -5,5 +5,6 @@ _Note: To skip a build, add [skip ci] to the end of the commit comment._
 
 - Status
 
-[![CircleCI](https://circleci.com/gh/alykes/circleci/tree/circleci-project-setup.svg?style=shield)](https://circleci.com/gh/alykes/circleci/tree/circleci-project-setup)
+[![CircleCI](https://circleci.com/gh/alykes/circleci/tree/main.svg?style=shield)](https://circleci.com/gh/alykes/circleci/tree/main)
+
 
