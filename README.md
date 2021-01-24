@@ -2,8 +2,9 @@
 
 Using this repo to test out circle ci
 
-Note: To skip a build, add [skip ci] to the end of the commit comment.
+_Note: To skip a build, add [skip ci] to the end of the commit comment._
 
+TEST
 
 - Status
 
